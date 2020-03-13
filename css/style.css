@@ -369,7 +369,7 @@ img {
 
 
 .banner-area{
-    background-image: url(../images/home/port.svg); /*--edit image--*/
+    background-image: url(../images/home/port.png); /*--edit image--*/
     background-position: center;
     background-size:cover;
     position: relative;
@@ -413,7 +413,7 @@ canvas{
 
 .welcome-text .intro h2 {
     color: #fff;
-    font-size: 85px;
+    font-size: 100px;
     font-weight: 800;
     margin-bottom: 10px;
 }
